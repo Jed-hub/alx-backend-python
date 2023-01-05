@@ -2,9 +2,10 @@
 """
 Sum list module
 """
+from typing import List
 
 
-def sum_list(input_list: list) -> float:
+def sum_list(input_list: list[float]) -> float:
     """
     Returns the sum of input list as float
     """
