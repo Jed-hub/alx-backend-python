@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """ Concurrent coroutiines module """
 import asyncio
 import random
